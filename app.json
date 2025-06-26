@@ -1,0 +1,17 @@
+{
+  "vimMode": false,
+  "livePreview": true,
+  "foldIndent": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 46
+  },
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "spellcheck": true
+}

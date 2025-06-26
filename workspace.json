@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "b6eee9320d46c60b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d07fde357d79638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa93a0d788c4c199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatique/Résumés/Algorithmes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algorithmes"
+            }
+          },
+          {
+            "id": "ff5c0cc7e3eee291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatique/Résumés/Arbre de décision (I.A.).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arbre de décision (I.A.)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cc09537726e530b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b3053e3613c123e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9b3182d45be85a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "505c011add6dff1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8217dcf4e04c68ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "fe8f48cdac388239",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "TIPE/Golly/Golly Infos/Multiplicateur/Drawing 2025-06-10 03.38.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-10 03.38.46.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "afa210a7ad455cf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa78af020e359b7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a680241bd1e6bc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8f4b095184c2d4ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Informatique/Cours/Chapitre 2/Algorithmes probabilistes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Algorithmes probabilistes"
+            }
+          },
+          {
+            "id": "d3db605dfd8cbcbf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Informatique/Cours/Chapitre 2/Algorithmes probabilistes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Algorithmes probabilistes"
+            }
+          },
+          {
+            "id": "05a2df48da3bad26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Informatique/Cours/Chapitre 2/Algorithmes probabilistes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Algorithmes probabilistes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "vscode-editor:Create Code File": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fa93a0d788c4c199",
+  "lastOpenFiles": [
+    "Informatique/Résumés/Arbre de décision (I.A.).md",
+    "Informatique/Résumés/Algorithmes.md",
+    "Informatique/Résumés/Langages - Automates - Grammaires.md",
+    "Informatique/Résumés/Arbres.md",
+    "Informatique/Résumés/Graphes.md",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Exemple algo.pdf",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/lu149554lky4.tmp",
+    "Informatique/Résumés/Algorithmes de tri.md",
+    "Ressources/Algo Lempel-Ziv-Welch.md",
+    "Ressources",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Image11_lzw.svg",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Image10_lzw.svg",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Image9_lzw.svg",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Image8_lzw.svg",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Image7_lzw.svg",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Image6_lzw.svg",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Image5_lzw.svg",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Image4_lzw.svg",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Image3_lzw.svg",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Image2_lzw.svg",
+    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch",
+    "Informatique/Résumés/Ensembles ordonnés.md",
+    "Informatique/Résumés/Calculabilité et Complexité.md",
+    "Informatique/Résumés/Logique.md",
+    "Informatique/Résumés/Représentation binaire.md",
+    "Informatique/Résumés/SQL.md",
+    "Informatique/Résumés/Synchronisation et concurrence.md",
+    "Informatique/Résumés/Théorie des jeux.md",
+    "Brouiilon.md",
+    "Informatique/Cours/Chapitre 5/Chapitre 5.md",
+    "Informatique/Cours/Chapitre 9/Chapitre 9.md",
+    "Informatique/Cours/Chapitre 8/Chapitre 8.md",
+    "Mathématiques/Oraux/Fichié S.md",
+    "Physique/Oraux/Oraux.md",
+    "TIPE/Golly/Golly Infos/Filtre/Drawing 2025-06-10 05.24.07.excalidraw.md",
+    "TIPE/Golly/Golly Infos/Filtre/Filtre.md",
+    "TIPE/Golly/Golly Infos/Multiplicateur/Multiplicateur.md",
+    "TIPE/Golly/Golly Infos/Multiplicateur/Drawing 2025-06-10 03.38.46.excalidraw.md",
+    "TIPE/Golly/Golly Infos/Additionneurs/Additionneur EXCAL.md",
+    "TIPE/Présentation/Images/Compressés/Filtre",
+    "TIPE/Présentation/lu3060281n46pg.tmp",
+    "TIPE/Présentation/Images/Compressés/Multiplicateur",
+    "TIPE/Présentation/Images/Non compressés/Multiplicateur",
+    "TIPE/Présentation/Images/Compressés/Additionneur/8bit",
+    "TIPE/Présentation/Images/Non compressés/Additionneur/8bit",
+    "TIPE/Golly/Golly Infos/Additionneurs/Untitled.canvas",
+    "Mathématiques/Cours/Untitled.canvas",
+    "Anglais/Khôlle/Untitled.canvas",
+    "Mathématiques/Cours/C20/Untitled.canvas",
+    "Mathématiques/Cours/C18/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
