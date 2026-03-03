@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "520584b1f00044da",
+        "id": "34af3419ef2dcad1",
         "type": "tabs",
         "children": [
           {
-            "id": "fd0d9828201e2cbc",
+            "id": "acd36da83e3f96c1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,6 +165,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd0d9828201e2cbc",
-  "lastOpenFiles": []
+  "active": "acd36da83e3f96c1",
+  "lastOpenFiles": [
+    "README.md",
+    "CRE/Droneload/README.md",
+    "CRE/Droneload/Info Batteries.md",
+    "CRE/Droneload/Images/Batteries Vivantes.jpg",
+    "CRE/Droneload/Images/Pasted image 20260215123542.png",
+    "CRE/Droneload/Images/Batteries Mortes.jpg"
+  ]
 }
