@@ -4,17 +4,25 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "102c353c3408db94",
         "type": "tabs",
         "children": [
           {
             "id": "930daf3bdc50381b",
+=======
+        "id": "bcc9c2848fd9fef2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2960c65e9a10a6ab",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -40,7 +48,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -57,7 +65,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -67,7 +75,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Signets"
             }
           },
           {
@@ -163,18 +171,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "vscode-editor:Create Code File": false,
-      "daily-notes:Open today's daily note": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< Updated upstream
   "active": "930daf3bdc50381b",
   "lastOpenFiles": [
     "EP360/CM/Filtres/EE360_II_Filtres.pdf",
@@ -205,13 +214,48 @@
     "AU360/CM/AU-360-Sys-Lin-Asservis-EM-janvier2025.pdf",
     "AU360/TD/TD1/TD1.md",
     "AU360/TD/TD1/EXCAL.md",
+=======
+  "active": "2960c65e9a10a6ab",
+  "lastOpenFiles": [
+    "AU360/TP/TP - Préparation.md",
+    "AU360/CM/C2/Chapitre 2 - Fonction de transfert à temps discret des systèmes linéaires invariants.md",
+    "AU360/TP/EXCAL.md",
+>>>>>>> Stashed changes
     "Brouilon.md",
+    "AU360/TP/TP - Travail.md",
+    "README.md",
+    "AU360/TP/Enceinte_climatique_2.slx.bak",
+    "AU360/TP/Enceinte_climatique_2.slx",
+    "AU360/TP/Enceinte_climatique.slx.bak",
+    "AU360/TP/Enceinte_climatique.slx.autosave",
+    "AU360/TP/Enceinte_climatique.slx.r2024b",
+    "AU360/TP/TP - Préparation Partie 1.pdf",
+    "Images/Pasted image 20260301160819.png",
+    "Images/Pasted image 20260301151748.png",
+    "Images/Pasted image 20260301130654.png",
+    "Images/Pasted image 20260301140118.png",
+    "Images/Pasted image 20260301132540.png",
+    "Pasted image 20260301130634.png",
+    "Pasted image 20260301130627.png",
+    "Pasted image 20260301115635.png",
+    "Images/Pasted image 20260301121014.png",
+    "AU360/CM/C1/Chapitre 1 - Systèmes dynamiques linéaires invariants causaux à temps continus.md",
+    "EP360/TP/TP1/TP1 - Filtres Passifs.md",
+    "AU360/CM/AU-360-Sys-Lin-Asservis-EM-janvier2025.pdf",
+    "Images/Pasted image 20260227160043.png",
+    "EP360/TP/TP1/TP1 - Manipulations.md",
+    "EP360/TP/TP1/Mesures/Sans résistance de charge",
+    "EP360/TP/TP1/Mesures/Mesures.ods",
+    "EP360/TP/TP1/Mesures",
     "Informatique/Résumés/Arbre de décision (I.A.).md",
     "Informatique/Résumés/Algorithmes.md",
     "Informatique/Résumés/Langages - Automates - Grammaires.md",
     "Informatique/Résumés/Arbres.md",
     "Informatique/Résumés/Graphes.md",
+<<<<<<< Updated upstream
     "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Exemple algo.pdf",
+=======
+>>>>>>> Stashed changes
     "Informatique/Résumés/Algorithmes de tri.md",
     "Ressources/Algo Lempel-Ziv-Welch.md",
     "Informatique/Résumés/Ensembles ordonnés.md",
@@ -222,6 +266,11 @@
     "Informatique/Résumés/Synchronisation et concurrence.md",
     "Informatique/Résumés/Théorie des jeux.md",
     "Brouiilon.md",
+<<<<<<< Updated upstream
+=======
+    "Informatique/Cours/Chapitre 5/Chapitre 5.md",
+    "Informatique/Cours/Chapitre 9/Chapitre 9.md",
+>>>>>>> Stashed changes
     "TIPE/Golly/Golly Infos/Additionneurs/Untitled.canvas",
     "Mathématiques/Cours/Untitled.canvas",
     "Anglais/Khôlle/Untitled.canvas",
