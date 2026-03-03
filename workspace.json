@@ -1,22 +1,14 @@
 {
   "main": {
-    "id": "b6eee9320d46c60b",
+    "id": "aad368e4e5d4e81a",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "102c353c3408db94",
+        "id": "520584b1f00044da",
         "type": "tabs",
         "children": [
           {
-            "id": "930daf3bdc50381b",
-=======
-        "id": "bcc9c2848fd9fef2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2960c65e9a10a6ab",
->>>>>>> Stashed changes
+            "id": "fd0d9828201e2cbc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -31,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7cc09537726e530b",
+    "id": "31377bcacd04ebe4",
     "type": "split",
     "children": [
       {
-        "id": "1b3053e3613c123e",
+        "id": "9f2124b5ec7e3899",
         "type": "tabs",
         "children": [
           {
-            "id": "d9b3182d45be85a6",
+            "id": "844cd1635d92cfd2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +44,7 @@
             }
           },
           {
-            "id": "505c011add6dff1d",
+            "id": "5bf4eeb84867f4bb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,7 +61,7 @@
             }
           },
           {
-            "id": "8217dcf4e04c68ba",
+            "id": "fd947cc6a76ea587",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,53 +69,27 @@
               "icon": "lucide-bookmark",
               "title": "Signets"
             }
-          },
-          {
-            "id": "fe8f48cdac388239",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "TIPE/Golly/Golly Infos/Multiplicateur/Drawing 2025-06-10 03.38.46.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-10 03.38.46.excalidraw"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300
   },
   "right": {
-    "id": "afa210a7ad455cf5",
+    "id": "415197824c0740eb",
     "type": "split",
     "children": [
       {
-        "id": "aa78af020e359b7d",
+        "id": "7d9baf7a7115a84a",
         "type": "tabs",
         "children": [
           {
-            "id": "9a680241bd1e6bc6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "8f4b095184c2d4ab",
+            "id": "e90ac9549a9d13fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Cours/Chapitre 2/Algorithmes probabilistes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,40 +99,56 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Algorithmes probabilistes"
+              "title": "Rétroliens"
             }
           },
           {
-            "id": "d3db605dfd8cbcbf",
+            "id": "02ea6a349440adb2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Cours/Chapitre 2/Algorithmes probabilistes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Algorithmes probabilistes"
+              "title": "Liens sortants"
             }
           },
           {
-            "id": "05a2df48da3bad26",
+            "id": "b2c9afdcc900c410",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "1714608c1ba1f544",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/Cours/Chapitre 2/Algorithmes probabilistes.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Algorithmes probabilistes"
+              "title": "Plan"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -183,99 +165,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "930daf3bdc50381b",
-  "lastOpenFiles": [
-    "EP360/CM/Filtres/EE360_II_Filtres.pdf",
-    "EP360/CM/Filtres/II. Filtres.md",
-    "EP360/TP/TP1/EXCAL.md",
-    "EP360/TP/TP1/TP1 - Filtres Passifs.md",
-    "EP360/TP/TP1/77F680J-TR-RC.PDF",
-    "EP360/TP/77F680J-TR-RC.PDF",
-    "Images/Pasted image 20260226201835.png",
-    "Images/Pasted image 20260226201516.png",
-    "Images/Pasted image 20260226173038.png",
-    "Pasted image 20260226172356.png",
-    "Images/Pasted image 20260226172151.png",
-    "Images/Pasted image 20260226172105.png",
-    "Images/Pasted image 20260226163938.png",
-    "Images/Pasted image 20260226163921.png",
-    "Pasted image 20260226161204.png",
-    "Images/Pasted image 20260226160816.png",
-    "EP360/TP/EP360-361_SujetsTP_2026_V1.pdf",
-    "AU360/TP/Enceinte_climatique.slx",
-    "EP360/TP/TP1",
-    "EP360/TP",
-    "AU360/TP/TP - Préparation.md",
-    "AU360/TP/EXCAL.md",
-    "AU360/CM/C3/Structure de commande, contraintes et objectif du système MISO.md",
-    "IN360/CM/IN360-CM-IngenierieJava.pdf.pdf",
-    "AU360/TP/TP - Travail.md",
-    "AU360/CM/AU-360-Sys-Lin-Asservis-EM-janvier2025.pdf",
-    "AU360/TD/TD1/TD1.md",
-    "AU360/TD/TD1/EXCAL.md",
-=======
-  "active": "2960c65e9a10a6ab",
-  "lastOpenFiles": [
-    "AU360/TP/TP - Préparation.md",
-    "AU360/CM/C2/Chapitre 2 - Fonction de transfert à temps discret des systèmes linéaires invariants.md",
-    "AU360/TP/EXCAL.md",
->>>>>>> Stashed changes
-    "Brouilon.md",
-    "AU360/TP/TP - Travail.md",
-    "README.md",
-    "AU360/TP/Enceinte_climatique_2.slx.bak",
-    "AU360/TP/Enceinte_climatique_2.slx",
-    "AU360/TP/Enceinte_climatique.slx.bak",
-    "AU360/TP/Enceinte_climatique.slx.autosave",
-    "AU360/TP/Enceinte_climatique.slx.r2024b",
-    "AU360/TP/TP - Préparation Partie 1.pdf",
-    "Images/Pasted image 20260301160819.png",
-    "Images/Pasted image 20260301151748.png",
-    "Images/Pasted image 20260301130654.png",
-    "Images/Pasted image 20260301140118.png",
-    "Images/Pasted image 20260301132540.png",
-    "Pasted image 20260301130634.png",
-    "Pasted image 20260301130627.png",
-    "Pasted image 20260301115635.png",
-    "Images/Pasted image 20260301121014.png",
-    "AU360/CM/C1/Chapitre 1 - Systèmes dynamiques linéaires invariants causaux à temps continus.md",
-    "EP360/TP/TP1/TP1 - Filtres Passifs.md",
-    "AU360/CM/AU-360-Sys-Lin-Asservis-EM-janvier2025.pdf",
-    "Images/Pasted image 20260227160043.png",
-    "EP360/TP/TP1/TP1 - Manipulations.md",
-    "EP360/TP/TP1/Mesures/Sans résistance de charge",
-    "EP360/TP/TP1/Mesures/Mesures.ods",
-    "EP360/TP/TP1/Mesures",
-    "Informatique/Résumés/Arbre de décision (I.A.).md",
-    "Informatique/Résumés/Algorithmes.md",
-    "Informatique/Résumés/Langages - Automates - Grammaires.md",
-    "Informatique/Résumés/Arbres.md",
-    "Informatique/Résumés/Graphes.md",
-<<<<<<< Updated upstream
-    "Informatique/Résumés/Ressources/Algo Lempel-Ziv-Welch/Exemple algo.pdf",
-=======
->>>>>>> Stashed changes
-    "Informatique/Résumés/Algorithmes de tri.md",
-    "Ressources/Algo Lempel-Ziv-Welch.md",
-    "Informatique/Résumés/Ensembles ordonnés.md",
-    "Informatique/Résumés/Calculabilité et Complexité.md",
-    "Informatique/Résumés/Logique.md",
-    "Informatique/Résumés/Représentation binaire.md",
-    "Informatique/Résumés/SQL.md",
-    "Informatique/Résumés/Synchronisation et concurrence.md",
-    "Informatique/Résumés/Théorie des jeux.md",
-    "Brouiilon.md",
-<<<<<<< Updated upstream
-=======
-    "Informatique/Cours/Chapitre 5/Chapitre 5.md",
-    "Informatique/Cours/Chapitre 9/Chapitre 9.md",
->>>>>>> Stashed changes
-    "TIPE/Golly/Golly Infos/Additionneurs/Untitled.canvas",
-    "Mathématiques/Cours/Untitled.canvas",
-    "Anglais/Khôlle/Untitled.canvas",
-    "Mathématiques/Cours/C20/Untitled.canvas",
-    "Mathématiques/Cours/C18/Untitled.canvas",
-    "Untitled.canvas"
-  ]
+  "active": "fd0d9828201e2cbc",
+  "lastOpenFiles": []
 }
