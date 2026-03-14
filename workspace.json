@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34af3419ef2dcad1",
+        "id": "dce54148093cf9e1",
         "type": "tabs",
         "children": [
           {
-            "id": "acd36da83e3f96c1",
+            "id": "fa9bb89ba06461e9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,13 +165,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acd36da83e3f96c1",
+  "active": "fa9bb89ba06461e9",
   "lastOpenFiles": [
-    "README.md",
-    "CRE/Droneload/README.md",
-    "CRE/Droneload/Info Batteries.md",
-    "CRE/Droneload/Images/Batteries Vivantes.jpg",
+    "CRE/Droneload/Liste de courses.md",
+    "Intégrale de Léandre.md",
+    "CRE/Droneload/RCE/RCE2/Plan.md",
+    "Brouilon.md",
+    "CRE/Droneload/Images/Pasted image 20260215123637.png",
+    "CRE/lu20996fe7ff.tmp",
+    "CRE/lu20996fe7fc.tmp",
+    "CRE/Droneload/RCE/RCE2/lu205524k9m2.tmp",
+    "CRE/Droneload/RCE/RCE2/lu205524k9lz.tmp",
+    "CRE/Droneload/RCE/RCE2/Images/Pasted image 20260215123637.png",
+    "CRE/Droneload/RCE/RCE2/Images/Pasted image 20260215160054.png",
     "CRE/Droneload/Images/Pasted image 20260215123542.png",
-    "CRE/Droneload/Images/Batteries Mortes.jpg"
+    "CRE/Droneload/Images/Batteries Mortes.jpg",
+    "CRE/Droneload/Images/Batteries Vivantes.jpg",
+    "CRE/Droneload/Images/Pasted image.png",
+    "CRE/Droneload/Images/Pasted image (2).png",
+    "CRE/Droneload/Images/Pasted image (3).png",
+    "CRE/Droneload/Images/Pasted image (4).png",
+    "CRE/Droneload/RCE/RCE2/EXCAL.md",
+    "CRE/Droneload/RCE/RCE2/lu205524k9lw.tmp",
+    "CRE/Droneload/Raspberry/New/Software/Documentation/Camera/Install Gstreamer tools to redirect the video stream on a character device.md",
+    "CRE/Droneload/Raspberry/New/Software/Documentation/Camera/Setup camera libraries for Ubuntu 24.04 on Raspberry.md",
+    "CRE/Droneload/Règlement/Règlement.md",
+    "CRE/Droneload/Règlement/V1.2_Reglement_Droneload_2025.pdf",
+    "CRE/Droneload/Règlement/reglement_droneload_2026_v0.pdf",
+    "CRE/Droneload/Info Batteries.md",
+    "CRE/Droneload/RCE/RCE2/lu205524k9lq.tmp",
+    "CRE/Droneload/RCE/RCE2/lu205524k9ll.tmp",
+    "CRE/lu205524k9li.tmp",
+    "CRE/Droneload/README.md",
+    "SN360/TP/TP1/SN36X_TM1_TP1_nom1_nom2.md",
+    "SN360/CM/C3/Chapitre 3 - Circuits combinatoires.md",
+    "SN360/CM/C4/C4 - Circuits séquentiels.md",
+    "SN360/TP/TP1/EXCAL.md",
+    "README.md"
   ]
 }
