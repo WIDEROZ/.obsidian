@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dce54148093cf9e1",
+        "id": "8cb97205db877c7e",
         "type": "tabs",
         "children": [
           {
-            "id": "fa9bb89ba06461e9",
+            "id": "874f1028ff07ba15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Brouilon.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Brouilon"
             }
           }
         ]
@@ -165,12 +169,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa9bb89ba06461e9",
+  "active": "874f1028ff07ba15",
   "lastOpenFiles": [
-    "CRE/Droneload/Liste de courses.md",
     "Intégrale de Léandre.md",
-    "CRE/Droneload/RCE/RCE2/Plan.md",
     "Brouilon.md",
+    "CRE/Droneload/RCE/RCE2/Notes.md",
+    "CRE/Droneload/Liste de courses.md",
+    "CRE/Droneload/RCE/RCE2/Plan.md",
     "CRE/Droneload/Images/Pasted image 20260215123637.png",
     "CRE/lu20996fe7ff.tmp",
     "CRE/lu20996fe7fc.tmp",
