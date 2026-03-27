@@ -44,8 +44,8 @@ var ResultWidget = class extends import_view.WidgetType {
     this.text = text;
   }
   toDOM(_view) {
-    document.removeEventListener("keydown", this.keyListener, true);
-    const div = document.createElement("span");
+    activeDocument.removeEventListener("keydown", this.keyListener, true);
+    const div = activeDocument.createElement("span");
     div.className = "result-text";
     this.insertLocation = this.index;
     this.resultText = this.text;
@@ -56,14 +56,14 @@ var ResultWidget = class extends import_view.WidgetType {
       event.preventDefault();
       this.insertToDOM();
     };
-    document.addEventListener("keydown", this.keyListener, true);
+    activeDocument.addEventListener("keydown", this.keyListener, true);
     div.onclick = () => {
       this.insertToDOM();
     };
     return div;
   }
   destroy(dom) {
-    document.removeEventListener("keydown", this.keyListener, true);
+    activeDocument.removeEventListener("keydown", this.keyListener, true);
     dom.remove();
   }
   insertToDOM() {
@@ -79,7 +79,7 @@ var ResultWidget = class extends import_view.WidgetType {
       }
     });
     this.view.dispatch(transaction);
-    document.removeEventListener("keydown", this.keyListener, true);
+    activeDocument.removeEventListener("keydown", this.keyListener, true);
   }
 };
 
