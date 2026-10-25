@@ -1,0 +1,22 @@
+.souligne-double {
+    position: relative;
+    text-decoration: underline solid;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+}
+.souligne-double::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    border-bottom: 1px dashed currentColor;
+}
+
+.souligne-dash{
+    position: relative;
+    text-decoration: solid;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    border-bottom: 1px dashed currentColor;
+}
